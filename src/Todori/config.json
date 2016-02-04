@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "Todori"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-Todori-144d4a43-f316-4ee8-bc41-4caaf40fae0d;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
